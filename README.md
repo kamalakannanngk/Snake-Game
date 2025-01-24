@@ -5,7 +5,7 @@ This is a simple Snake Game built using Java. Control the snake to eat the food,
 1. Classic snake game mechanics.
 2. Dynamic food generation.
 3. Simple text-based interface.
-4. 
+
 **How to Play**
 1. Open the project in your favorite IDE (e.g., Eclipse or IntelliJ IDEA).
 2. Run the SnakeGame class to start the game.
